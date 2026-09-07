@@ -1,0 +1,6 @@
+{
+  "name": "Email Breach & Security Intelligence Platform",
+  "description": "Professional defensive cybersecurity web platform to check email exposure in documented data breaches, analyze threat severity, and guide immediate remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
